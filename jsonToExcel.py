@@ -56,6 +56,7 @@ for row in json_imported:
     
 try:
     workbook.save(file_name.split('.')[0] + '.xls')
+    sys.exit(0)
 except:
     print("Can't write the xls file")
     sys.exit(1)
