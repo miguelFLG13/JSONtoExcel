@@ -3,7 +3,7 @@
 """
 JSON to Excel v1.0
 Python script to convert a JSON to a XLS file
-Created by: Miguel Jiménez
+Created by: Miguel Jimenez
 Date: 22/10/2014
 """
 
